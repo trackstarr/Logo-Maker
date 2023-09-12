@@ -1,3 +1,6 @@
+[Video Demo](https://drive.google.com/file/d/1VhWfvZX7XI_x4L06sf3xyXalZXaQ3sNl/view)
+
+
 # Logo-Maker
 
 This is a simple command-line logo generator tool that allows you to create logos with different shapes, text, and colors. It generates SVG files based on your inputs.

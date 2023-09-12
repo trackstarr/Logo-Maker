@@ -8,7 +8,8 @@ Before using this tool, make sure you have the following dependencies installed:
 
 - Node.js
 - npm (Node Package Manager)
-
+- Inquirer
+- SVG
 ## Installation
 
 1. Clone this repository to your local machine:

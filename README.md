@@ -56,3 +56,9 @@ Once you've provided all the required information, the tool will generate an SVG
 You can now use the generated SVG file as your logo in various applications.
 
 ## Examples
+
+![alt text](https://github.com/trackstarr/Logo-Maker/blob/main/Examples/Circle.svg)
+
+![alt text](https://github.com/trackstarr/Logo-Maker/blob/main/Examples/Square.svg)
+
+![alt text](https://github.com/trackstarr/Logo-Maker/blob/main/Examples/Triangle.svg)

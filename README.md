@@ -20,7 +20,7 @@ Before using this tool, make sure you have the following dependencies installed:
 
 ## Instructions
 1.Navigate to the project directory:
-
+ ```bash
 cd index
 
 2. Install the required Node.js packages:
